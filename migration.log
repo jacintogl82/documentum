@@ -1,0 +1,32 @@
+INFO	2022-05-19 15:14:42,600	0	com.documentum.migrator.repository.DocumentLoader	[main]	Obtenemos el cliente documentum
+INFO	2022-05-19 15:14:42,863	263	com.documentum.fc.client.security.impl.JKSKeystoreUtilForDfc	[main]	keystore file name is D:\work\ws\java-workspace\migrator\target\classes\dfc.keystore
+INFO	2022-05-19 15:14:42,870	270	com.documentum.fc.client.security.impl.InitializeKeystoreForDfc	[main]	[DFC_SECURITY_IDENTITY_LOADED] Loaded identity from keystore, DFC alias=dfc, identity=dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 15:14:42,871	271	com.documentum.fc.client.security.impl.AuthenticationMgrForDfc	[main]	identity for authentication is dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 15:14:42,874	274	com.documentum.fc.impl.RuntimeContext	[main]	DFC Version is 7.2.0370.0245
+INFO	2022-05-19 15:14:42,894	294	com.documentum.fc.client.impl.bof.cache.ClassCacheManager$CacheCleanupTask	[Timer-1]	[DFC_BOF_RUNNING_CLEANUP] Running class cache cleanup task
+INFO	2022-05-19 15:17:19,081	0	com.documentum.migrator.repository.DocumentLoader	[main]	Obtenemos el cliente documentum
+INFO	2022-05-19 15:17:19,345	264	com.documentum.fc.client.security.impl.JKSKeystoreUtilForDfc	[main]	keystore file name is D:\work\ws\java-workspace\migrator\target\classes\dfc.keystore
+INFO	2022-05-19 15:17:19,352	271	com.documentum.fc.client.security.impl.InitializeKeystoreForDfc	[main]	[DFC_SECURITY_IDENTITY_LOADED] Loaded identity from keystore, DFC alias=dfc, identity=dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 15:17:19,353	272	com.documentum.fc.client.security.impl.AuthenticationMgrForDfc	[main]	identity for authentication is dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 15:17:19,355	274	com.documentum.fc.impl.RuntimeContext	[main]	DFC Version is 7.2.0370.0245
+INFO	2022-05-19 15:17:19,376	295	com.documentum.fc.client.impl.bof.cache.ClassCacheManager$CacheCleanupTask	[Timer-1]	[DFC_BOF_RUNNING_CLEANUP] Running class cache cleanup task
+INFO	2022-05-19 15:57:14,268	1	com.documentum.migrator.repository.DocumentLoader	[main]	Obtenemos el cliente documentum
+INFO	2022-05-19 16:09:00,599	0	com.documentum.migrator.repository.DocumentLoader	[main]	Obtenemos el cliente documentum
+INFO	2022-05-19 16:09:00,905	306	com.documentum.fc.client.security.impl.JKSKeystoreUtilForDfc	[main]	keystore file name is D:\work\ws\java-workspace\migrator\target\classes\dfc.keystore
+INFO	2022-05-19 16:09:00,913	314	com.documentum.fc.client.security.impl.InitializeKeystoreForDfc	[main]	[DFC_SECURITY_IDENTITY_LOADED] Loaded identity from keystore, DFC alias=dfc, identity=dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 16:09:00,914	315	com.documentum.fc.client.security.impl.AuthenticationMgrForDfc	[main]	identity for authentication is dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 16:09:00,915	316	com.documentum.fc.impl.RuntimeContext	[main]	DFC Version is 7.2.0370.0245
+INFO	2022-05-19 16:09:00,938	339	com.documentum.fc.client.impl.bof.cache.ClassCacheManager$CacheCleanupTask	[Timer-1]	[DFC_BOF_RUNNING_CLEANUP] Running class cache cleanup task
+INFO	2022-05-19 16:09:51,036	0	com.documentum.migrator.repository.DocumentLoader	[main]	Obtenemos el cliente documentum
+INFO	2022-05-19 16:11:57,691	0	com.documentum.migrator.repository.DocumentLoader	[main]	Obtenemos el cliente documentum
+INFO	2022-05-19 16:11:57,961	270	com.documentum.fc.client.security.impl.JKSKeystoreUtilForDfc	[main]	keystore file name is D:\work\ws\java-workspace\migrator\target\classes\dfc.keystore
+INFO	2022-05-19 16:11:57,968	277	com.documentum.fc.client.security.impl.InitializeKeystoreForDfc	[main]	[DFC_SECURITY_IDENTITY_LOADED] Loaded identity from keystore, DFC alias=dfc, identity=dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 16:11:57,969	278	com.documentum.fc.client.security.impl.AuthenticationMgrForDfc	[main]	identity for authentication is dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 16:11:57,971	280	com.documentum.fc.impl.RuntimeContext	[main]	DFC Version is 7.2.0370.0245
+INFO	2022-05-19 16:11:57,992	301	com.documentum.fc.client.impl.bof.cache.ClassCacheManager$CacheCleanupTask	[Timer-1]	[DFC_BOF_RUNNING_CLEANUP] Running class cache cleanup task
+INFO	2022-05-19 16:16:35,183	0	com.documentum.migrator.repository.DocumentLoader	[main]	Obtenemos el cliente documentum
+INFO	2022-05-19 16:16:35,527	344	com.documentum.fc.client.security.impl.JKSKeystoreUtilForDfc	[main]	keystore file name is D:\work\ws\java-workspace\migrator\target\classes\dfc.keystore
+INFO	2022-05-19 16:16:35,644	461	com.documentum.fc.client.security.impl.InitializeKeystoreForDfc	[main]	[DFC_SECURITY_IDENTITY_LOADED] Loaded identity from keystore, DFC alias=dfc, identity=dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 16:16:35,646	463	com.documentum.fc.client.security.impl.AuthenticationMgrForDfc	[main]	identity for authentication is dfc_kDXv3nZbbz7FeiXntBBWz8avEeka
+INFO	2022-05-19 16:16:35,648	465	com.documentum.fc.impl.RuntimeContext	[main]	DFC Version is 7.2.0370.0245
+INFO	2022-05-19 16:16:35,676	493	com.documentum.fc.client.impl.bof.cache.ClassCacheManager$CacheCleanupTask	[Timer-1]	[DFC_BOF_RUNNING_CLEANUP] Running class cache cleanup task
